@@ -553,3 +553,11 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+.font-bebas-nanu {
+  font-family: Bebas Neue, sans-serif;
+}
+
+.font-roboto {
+  font-family: Roboto, sans-serif;
+}
